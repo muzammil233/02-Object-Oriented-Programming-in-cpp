@@ -3,7 +3,7 @@ using namespace std;
 
 class Rectangle 
 {
-    public:
+    private:
        float length;
        float width;
        
