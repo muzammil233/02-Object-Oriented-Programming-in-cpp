@@ -120,5 +120,4 @@ int main()
     sa.displayBalance();
     
     return 0;
-}
-    
+}    
