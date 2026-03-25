@@ -1,1 +1,3 @@
-This repository contains my oops journey in C++ from basics to advanced.
+Object Oriented Programming in C++ : 
+
+Classes and objects , Encapsulation , Inheritance , Polymorphism , Abstraction.
